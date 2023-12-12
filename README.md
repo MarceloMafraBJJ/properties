@@ -1,4 +1,5 @@
-# BJJInsights | Blog de Jiu-Jitsu
+# Properties | (real estate, property sales)
+
 
 ![properties](https://github.com/MarceloMafraBJJ/properties/assets/84472778/49eb6af4-cb4a-488b-9106-556988faa590)
 
